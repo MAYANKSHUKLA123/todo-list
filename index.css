@@ -1,0 +1,20 @@
+#input,#btn {
+    position: relative;
+    top:20px;
+    left:100px;
+    padding: 20px;
+    font-style: oblique;
+    background-color:burlywood;
+}
+
+li{
+    position: relative;
+    padding:20px;
+    top:30px;
+    height: max-content;
+    background-color:bisque;
+    font-style: oblique;
+    width: 500px;
+
+    /* border-style: none; */
+}
